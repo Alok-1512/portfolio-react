@@ -1,0 +1,23 @@
+/* Import Custom font here */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+
+nav {
+    font-size: 15px;
+}
+
+nav>ul>li:hover {
+    background: linear-gradient(90.03deg, rgba(186, 156, 249, 0.3) 0.03%, rgba(186, 156, 249, 0.1) 99.97%);
+    border-radius: 7px;
+}
+
+nav>ul>li {
+
+    padding-left: 0.75rem;
+    width: 150px;
+
+}
