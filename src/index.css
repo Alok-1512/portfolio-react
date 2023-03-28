@@ -21,3 +21,24 @@ nav>ul>li {
     width: 150px;
 
 }
+
+work-card {
+    background: #0B0914;
+    border-radius: 35px;
+    transform: matrix(1, -0.01, -0.01, -1, 0, 0);
+}
+
+
+
+
+.left-container>p {
+    font-family: 'Neue Plak';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.right-container>img {
+    object-fit: contain;
+}

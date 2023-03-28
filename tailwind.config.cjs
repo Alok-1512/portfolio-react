@@ -6,8 +6,9 @@ module.exports = {
     extend: {
       colors: {
         primary: "#0B0914",
-        
-        
+        'customRed': "#EE3939",
+
+
       },
       fontFamily: {
         // Mention imported fonts here 

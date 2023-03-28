@@ -1,12 +1,15 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Testimonials from './components/Testimonials';
+// import Work from './components/Work';
+// import Testimonials from './components/Testimonials';
+import Intro from './components/Intro';
 
 const App = () => {
   return (
     <>
       <div className='flex'>
         <Navbar />
+        <Intro />
       </div>
     </>
   );
