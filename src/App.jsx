@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-// import Work from './components/Work';
+import Work from './components/Work';
 // import Testimonials from './components/Testimonials';
-import Intro from './components/Intro';
+// import Intro from './components/Intro';
 import './font.css';
 
 const App = () => {
@@ -10,7 +10,7 @@ const App = () => {
     <>
       <div className='flex'>
         <Navbar />
-        <Intro />
+        <Work />
       </div>
     </>
   );

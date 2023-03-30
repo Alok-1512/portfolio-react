@@ -29,6 +29,7 @@ export const testimonials = [
 
 export const experience = [
    {
+      id: 1,
       logo: 'WoW',
       CompanyName: 'World of Wealth',
       Post: 'UX Designer Intern',
@@ -42,6 +43,7 @@ export const experience = [
       ],
    },
    {
+      id: 2,
       logo: 'Devzery',
       CompanyName: 'Devzery',
       Post: 'Product Designer intern',
@@ -52,7 +54,8 @@ export const experience = [
          "Collaborated with the founder on UX writing and SEO formatting."
 
       ],
-   }
+   },
+   // Add other experience objects here
 ];
 
 
