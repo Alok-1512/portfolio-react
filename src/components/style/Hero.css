@@ -1,28 +1,32 @@
-/* .frame2 {
+.frame2 {
     transform: rotate(-17.52deg);
-    left: 50%;
-
-}
-
-.frame2>img {
+    left: 13%;
     border-radius: 35px;
 
 }
 
+
+
 .frame1 {
     transform: rotate(9.52deg);
-    right: 30%;
+    left: 10%;
+    top: 55%;
 }
 
 .frame3 {
-    right: 10%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .frame4 {
-    left: 60%;
+    left: 58%;
+    transform: rotate(10.84deg);
 }
 
 .frame5 {
-    right: 25%;
+    right: 10%;
+    transform: rotate(-5.63deg);
 
-} */
+    top: 60%;
+
+}
